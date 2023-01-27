@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Bikash Bohara
-- 👀 I’m not interested in YOU
-- 🌱 I’m currently learning "kina bhanne timlai?"
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning blockchain technology.
 - 📫 bikashbohara092@gmail.com
-- at last--> Sanchai xau (bro/babe)?
 
 <!---
 programmer092/programmer092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
